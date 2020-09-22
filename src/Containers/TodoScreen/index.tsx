@@ -73,7 +73,7 @@ const TodoScreen: React.FunctionComponent = (): JSX.Element => {
         />
         <Image
           source={require('../../Assets/new-todo-icon.png')}
-          style={{width: '100%', height: normalize(275)}}
+          style={{width: '100%', height: normalize(175)}}
         />
         <TextInput
           onChange={setTodo}
