@@ -11,7 +11,7 @@
 
 </h4>
 <h5>
-Uygulama ilk açıldığında uygulamaya giriş yapma ekranı gelmektedir.
+Uygulama ilk açıldığında Splashscreen animasyonu gelmektedir. Daha sonra login sayfasına kullanıcı yönlendirilir.
 Bu ekran üzerinden şifre sıfırlama ve yeni kayıt oluşturma ekranlarına geçiş yapılabilir.
 </h5>
 <h5>
